@@ -36,12 +36,12 @@ button:hover {
     margin-top: 20px;
 }
 
-.valid {
-    color: #008000;
-}
-
-.invalid {
-    color: #ff4500;
+#circle {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #32cd32;
 }
 
 .emoji {
